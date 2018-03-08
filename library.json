@@ -1,0 +1,25 @@
+{
+  "name": "BMP280_I2C",
+  "keywords": "i2c, sensor, temperature, pressure, altitude",
+  "description": "Arduino Library for BMP280 by I2C",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/a-fernandez/BMP280_I2C"
+  },
+  "authors": 
+  [
+    {
+      "name": "Alvaro Fernandez",
+      "maintainer": true
+    }
+  ],
+  "dependencies":
+  {
+    "name": "Wire",
+    "frameworks": "arduino"
+  },
+  "version": "0.1",
+  "frameworks": "arduino",
+  "platforms": "*"
+}
